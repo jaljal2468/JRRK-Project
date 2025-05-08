@@ -3,6 +3,8 @@ This is the code for team JJRK.
 All the code for the game is in the folder main which includes the main code the launcher all and all 
 necessary components to run.
 
+repository is used for the final version of the game created so tht is more managable for you.
+
 Also in the zip file is the library for raylib used for creating the game and needs to be decompressed.
 The raylib library was originaly installed into the local disk of the computer.
 
